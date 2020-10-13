@@ -1,0 +1,44 @@
+﻿  main.cc
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(9,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(9,19): error C2143: syntax error: missing ',' before '&'
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(11,16): error C3646: 'origin': unknown override specifier
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(11,16): error C2059: syntax error: '('
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(11,25): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(12,17): error C3646: 'direction': unknown override specifier
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(12,17): error C2059: syntax error: '('
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(12,26): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(14,12): error C3646: 'at': unknown override specifier
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(14,12): error C2059: syntax error: '('
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(14,29): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(19,13): error C3646: 'orig': unknown override specifier
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(19,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(20,10): error C3646: 'dir': unknown override specifier
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(20,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(9,59): error C2065: 'origin': undeclared identifier
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(9,72): error C2065: 'direction': undeclared identifier
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(9,54): error C2614: 'ray': illegal member initialization: 'orig' is not a base or member
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(9,68): error C2614: 'ray': illegal member initialization: 'dir' is not a base or member
+C:\Users\59222\Desktop\RTInOneWeekend\hittable.h(13,1): error C2039: 'direction': is not a member of 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(6): message : see declaration of 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\sphere.h(19,20): error C2039: 'origin': is not a member of 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(6): message : see declaration of 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\sphere.h(20,22): error C2039: 'direction': is not a member of 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(6): message : see declaration of 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\sphere.h(21,35): error C2039: 'direction': is not a member of 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(6): message : see declaration of 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\sphere.h(21,37): error C2660: 'dot': function does not take 1 arguments
+C:\Users\59222\Desktop\RTInOneWeekend\vec3.h(197,15): message : see declaration of 'dot'
+C:\Users\59222\Desktop\RTInOneWeekend\sphere.h(23,29): error C3536: 'half_b': cannot be used before it is initialized
+C:\Users\59222\Desktop\RTInOneWeekend\sphere.h(23,42): error C3536: 'a': cannot be used before it is initialized
+C:\Users\59222\Desktop\RTInOneWeekend\sphere.h(30,16): error C2039: 'at': is not a member of 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(6): message : see declaration of 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\sphere.h(39,16): error C2039: 'at': is not a member of 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(6): message : see declaration of 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\camera.h(17,1): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\camera.h(17,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\59222\Desktop\RTInOneWeekend\camera.h(17,10): error C2064: term does not evaluate to a function taking 2 arguments
+C:\Users\59222\Desktop\RTInOneWeekend\main.cc(77,51): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\main.cc(77,51): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\59222\Desktop\RTInOneWeekend\main.cc(77,26): error C2064: term does not evaluate to a function taking 2 arguments
+C:\Users\59222\Desktop\RTInOneWeekend\main.cc(80,47): error C2039: 'direction': is not a member of 'ray'
+C:\Users\59222\Desktop\RTInOneWeekend\ray.h(6): message : see declaration of 'ray'
