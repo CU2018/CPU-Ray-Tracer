@@ -1,0 +1,5 @@
+﻿  main.cc
+C:\Users\Administrator\OneDrive\Pitt Terms\9-2020Summer\CPU Ray Tracer\RTTheNextWeek\perlin.h(61,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\OneDrive\Pitt Terms\9-2020Summer\CPU Ray Tracer\RTTheNextWeek\perlin.h(62,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\OneDrive\Pitt Terms\9-2020Summer\CPU Ray Tracer\RTTheNextWeek\perlin.h(63,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  RTTheNextWeek.vcxproj -> C:\Users\Administrator\OneDrive\Pitt Terms\9-2020Summer\CPU Ray Tracer\RTTheNextWeek\x64\Debug\RTTheNextWeek.exe

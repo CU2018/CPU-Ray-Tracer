@@ -1,0 +1,2 @@
+C:\Users\Administrator\OneDrive\Pitt Terms\9-2020Summer\CPU Ray Tracer\RTTheNextWeek\x64\Debug\RTTheNextWeek.exe
+C:\Users\Administrator\OneDrive\Pitt Terms\9-2020Summer\CPU Ray Tracer\RTTheNextWeek\x64\Debug\RTTheNextWeek.pdb
